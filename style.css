@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/499/281/74/anime-doraemon-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+h1{
+    color:white;
+    background:greenyellow;
+    width:1000px;
+    text-align: center;
+    margin:auto;
+}
+h2
+{
+    color:white;
+    background:palevioletred;
+    width:1140px;
+    text-align: center;
+    margin: auto;
+}
+#content
+{
+    display: flex;
+    background:brown;
+    height: 700px;
+    width: 1000px;
+    margin:auto;
+    justify-content: space-around;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: 3px solid white;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    flex-wrap: wrap-reverse;
+}
